@@ -14,6 +14,13 @@ Projeto com o objeto de apriomorar o conhecimento teórico e pratico em Java usa
 
 **Versão:** v1.0
 
+## Demonstração
+<p align="center">
+  <a href="https://github.com/jonasaacampos/campoMinadoJavaTerminal">
+     <img src="img/campoMinadoJava.gif"/>
+  </a>
+</p>
+
 <h2>Como jogar</h2>
 
 Campo minado é um popular jogo de computador para um jogador. Foi inventado por Robert Donner em 1989 e tem como objectivo revelar um campo de minas sem que alguma seja detonada. Este jogo tem sido reescrito para as mais diversas plataformas, sendo a sua versão mais popular a que vinha nativamente nas edições anteriores ao Windows 10.
@@ -35,7 +42,6 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Campo_minado)
 - [x] Jogo campo-minado funcionando no Terminal
 - [ ] Refinar interação de entrada de dados
 - [ ] Documentar classes
-
 
 -----------
 ## Licença de utilização
